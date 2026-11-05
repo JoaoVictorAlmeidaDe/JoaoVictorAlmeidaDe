@@ -17,9 +17,9 @@ Estou construindo minha base em desenvolvimento web e **buscando um estágio em 
 
 ## 📚 Estudando atualmente
 
-- Java (faculdade)
+- Java (faculdade), base para o back-end
 - JavaScript mais a fundo (DOM, funções, consumo de APIs)
-- Próximo passo: React
+- Próximos passos: React, depois Node.js e banco de dados (SQL)
 - Inglês técnico (nível básico, evoluindo)
 
 ---
@@ -36,7 +36,7 @@ Estou construindo minha base em desenvolvimento web e **buscando um estágio em 
 
 ## 🎯 Objetivo
 
-Conseguir minha **primeira oportunidade como estagiário de Front-end**, contribuir com um time e crescer como desenvolvedor.
+Conseguir minha **primeira oportunidade como estagiário de Front-end**, aprender na prática com um time e evoluir para **Desenvolvedor Full Stack**.
 
 ## 📫 Vamos conversar?
 
